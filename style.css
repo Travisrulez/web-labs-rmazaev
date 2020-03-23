@@ -1,0 +1,163 @@
+.lol {
+    color: white !important;
+    font-weight: bold;
+}
+
+.lol:hover {
+    color: lightgray !important;
+}
+
+.block1 {
+    background-image: url(img/INFO1.jpg);
+    background-size: cover;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block2 {
+    background-image: url(img/atele1.jpg);
+    background-size: cover;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block3 {
+    background-image: url(img/1234.png);
+    background-size: cover;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block1 span {
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.aboutus {
+    border-bottom: 1px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
+
+.aboutus h1 {
+    font-size: 3rem;
+}
+
+.us {
+    margin-top: 2vw;
+    display: flex;
+    
+}
+
+.us .btn {
+    margin-left: 1vw;
+}
+
+#div1 {
+    display: block;
+}
+
+#div2 {
+    display: none;
+}
+
+#div3 {
+    display: none;
+}
+
+.noneblock { 
+    font-size: 1.5rem;
+    border-radius: 20px;
+    border: 1px solid lightgrey;
+    margin-top: 4vh;
+}
+
+.tsh {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 7vw;
+}
+
+#tsh1 {
+    display: flex;
+}
+
+#tsh2 {
+    display: none;
+}
+
+#tsh3 {
+    display: none;
+}
+
+.btntsh1 {
+    display: block;
+}
+
+#button {
+    display: block;
+    margin-top: 8vh;
+}
+
+.form {
+    background-image: url(img/INFO.jpg);
+    background-size: cover;
+    padding: 6vh 0;
+    color: white;
+    margin-top: 8vh;
+}
+
+.formtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hrefs {
+    font-size: 1.7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-weight: bold;
+}
+
+.sometext {
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+    margin-top: 6vh;
+}
+
+.someimg {
+    width: 30vw;
+    height: 35vh;
+    margin-top: 5vh;
+}
+
+.car {
+    margin-top: 8vh;
+}
+
+.map {
+    border: 1.5px solid white;
+    outline: 4px solid MediumOrchid;
+}
+
+.contact {
+    margin: 8vh 0;
+}
